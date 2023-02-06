@@ -1,0 +1,39 @@
+
+    <annotation>
+    <folder>Train_annotations</folder>
+    <filename>5086_072.png</filename>
+    <path>/content/drive/My Drive/Mmdetection/VOC2007/Images/5086_072.png</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2544</width>
+      <height>3300</height>
+      <depth>1</depth>
+    </size>
+    <segmented>0</segmented>  
+    <object>
+      <name>table</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>304</xmin>
+        <ymin>1006</ymin>
+        <xmax>1040</xmax>
+        <ymax>1588</ymax>
+      </bndbox>
+    </object>  
+    <object>
+      <name>table</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>302</xmin>
+        <ymin>1626</ymin>
+        <xmax>1804</xmax>
+        <ymax>2502</ymax>
+      </bndbox>
+    </object>
+</annotation>

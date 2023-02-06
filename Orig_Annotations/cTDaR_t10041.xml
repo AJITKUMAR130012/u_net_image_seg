@@ -1,0 +1,27 @@
+
+  <annotation>
+    <folder>TRACKA</folder>
+    <filename>cTDaR_t10041.jpg</filename>
+    <path>/content/ICDAR2019_cTDaR/test/TRACKA/cTDaR_t10041.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>797</width>
+      <height>1124</height>
+      <depth>1</depth>
+    </size>
+    <segmented>0</segmented>	
+      <object>
+        <name>table</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+          <xmin>52</xmin>
+          <ymin>115</ymin>
+          <xmax>736</xmax>
+          <ymax>970</ymax>
+        </bndbox>
+      </object>
+</annotation>

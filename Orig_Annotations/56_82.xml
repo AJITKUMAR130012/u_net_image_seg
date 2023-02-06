@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>56_82.jpg</filename>
+	<path>/media/devashish/Local Disk/Research/Projects/Table Project/Marmot 2020/Images/56_82.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>572</width>
+		<height>890</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>485</ymin>
+			<xmax>565</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+</annotation>

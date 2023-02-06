@@ -1,0 +1,27 @@
+
+    <annotation>
+    <folder>Train_annotations</folder>
+    <filename>5830_144.png</filename>
+    <path>/content/drive/My Drive/Mmdetection/VOC2007/Images/5830_144.png</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2544</width>
+      <height>3300</height>
+      <depth>1</depth>
+    </size>
+    <segmented>0</segmented>  
+    <object>
+      <name>table</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>383</xmin>
+        <ymin>713</ymin>
+        <xmax>2383</xmax>
+        <ymax>3033</ymax>
+      </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,27 @@
+
+	<annotation>
+	<folder>TRACKA</folder>
+	<filename>64_35.jpg</filename>
+	<path>/content/ICDAR2019_cTDaR/test/TRACKA/64_35.jpg</path>
+	<source>
+	  <database>Unknown</database>
+	</source>
+	<size>
+	  <width>2261</width>
+	  <height>3200</height>
+	  <depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+		<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+		  <xmin>342</xmin>
+		  <ymin>926</ymin>
+		  <xmax>1868</xmax>
+		  <ymax>2594</ymax>
+		</bndbox>
+		</object>
+</annotation>

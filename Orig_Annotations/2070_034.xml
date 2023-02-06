@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2070_034.png</filename>
+	<path>D:\Egien Elites\ICDAR 2019\GitHub Dataset\images\2070_034.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2544</width>
+		<height>3300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>796</ymin>
+			<xmax>1505</xmax>
+			<ymax>1164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>562</xmin>
+			<ymin>1646</ymin>
+			<xmax>1480</xmax>
+			<ymax>2014</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1412_006.png</filename>
+	<path>D:\Egien Elites\ICDAR 2019\GitHub Dataset\images\1412_006.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>3300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>137</ymin>
+			<xmax>2359</xmax>
+			<ymax>1014</ymax>
+		</bndbox>
+	</object>
+</annotation>

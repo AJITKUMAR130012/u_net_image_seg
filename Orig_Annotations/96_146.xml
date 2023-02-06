@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>96_146.jpg</filename>
+	<path>/media/devashish/Local Disk/Research/Projects/Table Project/Marmot 2020/Images/96_146.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>815</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>91</ymin>
+			<xmax>468</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>
